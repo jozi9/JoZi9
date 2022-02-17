@@ -1,1 +1,2 @@
-# Hey Im Ghost
+# Hey Im Ghost,
+## a hobby dev
