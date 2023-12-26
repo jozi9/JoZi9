@@ -1,7 +1,7 @@
 <h1 align="center">Ghost<br/><br></h1>
 
 <h2>Hey! :wave:</h2>
-<p>I'm a 15 year old hobby-dev.</p>
+<p>I'm a 17 year old hobby-dev.</p>
 
 <h2>Skills</h2>
 <ul>
