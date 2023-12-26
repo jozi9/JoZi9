@@ -1,4 +1,4 @@
-<h1 align="center">Ghost<br/><br></h1>
+<h1 align="center">JoZi<br/><br></h1>
 
 <h2>Hey! :wave:</h2>
 <p>I'm a 17 year old hobby-dev.</p>
